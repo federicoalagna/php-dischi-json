@@ -13,7 +13,7 @@
 
 <body>
 <div id="app" class="container">
-    <h1 class="my-4 text-center">Boolify</h1>
+    <h1 class="my-4 text-center ">Boolify</h1>
     <div class="row">
         <div class="col-md-4" v-for="disco in dischi" :key="disco.id">
             <div class="card mb-4">

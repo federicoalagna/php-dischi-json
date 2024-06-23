@@ -17,5 +17,29 @@
         "title": "Rodeo",
         "artist": "Travis Scott",
         "cover": "https://m.media-amazon.com/images/I/61NNlLmVp7L._UF1000,1000_QL80_.jpg"
+    },
+
+    {
+        "id": 4,
+        "title": "Eternal Atake",
+        "artist": "Lil Uzi Vert",
+        "cover": "https://m.media-amazon.com/images/I/81-SFiRVerL._UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Blonde",
+        "artist": "Frank Ocean",
+        "cover": "https://www.rocklab.it/wp-content/uploads/2016/09/frank-ocean-blond.jpg"
+    },
+
+    {
+        "id": 4,
+        "title": "After Hours",
+        "artist": "The Weeknd",
+        "cover": "https://m.media-amazon.com/images/I/813XseYNw1L._UF1000,1000_QL80_.jpg"
     }
 ]
+
+
+
+

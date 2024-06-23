@@ -8,7 +8,7 @@ body {
   font-family: "Poppins", sans-serif;
 }
 .card {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.4);
 }
 .card-title,
 .card-text {
@@ -17,4 +17,5 @@ body {
 
 h1 {
   font-size: 80px;
+  font-weight: normal;
 }
