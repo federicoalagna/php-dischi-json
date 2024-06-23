@@ -14,6 +14,7 @@
     <div class="row">
         <div class="col-md-4" v-for="disco in dischi" :key="disco.id">
             <div class="card mb-4">
+                <img :src="disco.cover" class="card-img-top" :alt="disco.title">
                 <div class="card-body">
                     <h5 class="card-title">{{ disco.title }}</h5>
                     <p class="card-text">{{ disco.artist }}</p>

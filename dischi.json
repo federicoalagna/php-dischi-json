@@ -2,16 +2,20 @@
     {
         "id": 1,
         "title": "Get Rich Or Die Tryin",
-        "artist": "50 Cent"
+        "artist": "50 Cent",
+        "cover": "https://m.media-amazon.com/images/I/71N0sYyXrUL._UF1000,1000_QL80_.jpg"
     },
     {
         "id": 2,
         "title": "DAMN.",
-        "artist": "Kendrick Lamar"
+        "artist": "Kendrick Lamar",
+        "cover": "https://m.media-amazon.com/images/I/71tdaojeUkL._UF1000,1000_QL80_.jpg"
     },
+   
     {
         "id": 3,
         "title": "Rodeo",
-        "artist": "Travis Scott"
+        "artist": "Travis Scott",
+        "cover": "https://m.media-amazon.com/images/I/61NNlLmVp7L._UF1000,1000_QL80_.jpg"
     }
 ]
