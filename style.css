@@ -1,0 +1,20 @@
+body {
+  background-image: url("https://lh6.googleusercontent.com/proxy/j3swRymFO6DEU1hDweHufjn56ImUaum75gqZ1CrpLSe5kMNedakwT3zYvAyMJXtIxupwuWLDAmWJdEKS8bgcS9Yg0caMSt0fXA6UgBDZsnSrM6XEz5rovhpvDv6WhfmFAsmLLruWmD8RtFU"); /* Sostituisci con l'URL della tua immagine di sfondo */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  font-family: "Poppins", sans-serif;
+}
+.card {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.card-title,
+.card-text {
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+}
